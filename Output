@@ -1,0 +1,13 @@
+Enter the mark (0-100) for student 1: 
+70
+Enter the mark (0-100) for student 2: 
+170
+Invalid input, try again...
+Enter the mark (0-100) for student 2: 
+88
+Enter the mark (0-100) for student 3: 
+-7
+Invalid input, try again...
+Enter the mark (0-100) for student 3: 
+86
+The average is: 81.33
